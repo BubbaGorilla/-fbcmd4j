@@ -1,10 +1,10 @@
 # fbcmd4j
-Cliente de Facebook en línea de comando para la evidencia del curso "**Computación en Java CS13303**"
+Cliente de Facebook en línea de comando 
 
 ## Instalación
 **Clonar el repositorio**  
 ```
-git clone https://github.com/DavidServn/fbcmd4j.git
+git clone https://github.com/BubbaGorilla/fbcmd4j.git
 ```
 
 **Importar a Eclipse**  
@@ -46,11 +46,6 @@ git clone https://github.com/DavidServn/fbcmd4j.git
 **Publicar un Link**   
 1. Seleccionar la opción 4 `Publicar Link`.
 2. Escribir el link deseado.
-
-
-## Créditos
-Desarrollado por:
-- **2686599** David Elí Servín Peña
 
 
 ## Licencia
